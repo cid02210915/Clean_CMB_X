@@ -1,0 +1,11 @@
+# data & outputs (keep the repo light)
+CMB_realizations/
+CMB_total/
+ILC/**/synthesized_ILC_MW_maps/
+wavelet_transform/wavelets/
+tSZ_outputs/
+*.png
+*.npy
+*.fits
+*.ipynb_checkpoints/
+__pycache__/
